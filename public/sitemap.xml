@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <!-- Homepage -->
+  <url>
+    <loc>https://growbrightpath.com/</loc>
+    <lastmod>2024-03-15T10:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Main Pages -->
+  <url>
+    <loc>https://growbrightpath.com/demo</loc>
+    <lastmod>2024-03-15T10:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://growbrightpath.com/schedule-demo</loc>
+    <lastmod>2024-03-15T10:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://growbrightpath.com/contact</loc>
+    <lastmod>2024-03-15T10:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://growbrightpath.com/support</loc>
+    <lastmod>2024-03-15T10:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://growbrightpath.com/about</loc>
+    <lastmod>2024-03-15T10:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://growbrightpath.com/features</loc>
+    <lastmod>2024-03-15T10:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://growbrightpath.com/pricing</loc>
+    <lastmod>2024-03-15T10:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- User Types -->
+  <url>
+    <loc>https://growbrightpath.com/teachers</loc>
+    <lastmod>2024-03-15T10:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://growbrightpath.com/students</loc>
+    <lastmod>2024-03-15T10:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://growbrightpath.com/families</loc>
+    <lastmod>2024-03-15T10:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Blog Pages -->
+  <url>
+    <loc>https://growbrightpath.com/blog</loc>
+    <lastmod>2024-03-15T10:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://growbrightpath.com/blog/vr-education-experiences</loc>
+    <lastmod>2024-03-08T10:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://growbrightpath.com/blog-vr-education.jpg</image:loc>
+      <image:title>Virtual Reality in Education</image:title>
+      <image:caption>Students using VR headsets for educational experiences</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://growbrightpath.com/blog/teacher-professional-development</loc>
+    <lastmod>2024-03-03T10:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://growbrightpath.com/blog-teacher-training.jpg</image:loc>
+      <image:title>Teacher Professional Development</image:title>
+      <image:caption>Teachers in professional development workshop</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://growbrightpath.com/blog/stem-education-innovators</loc>
+    <lastmod>2024-03-05T10:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://growbrightpath.com/blog-stem-collaboration.jpg</image:loc>
+      <image:title>STEM Education Innovation</image:title>
+      <image:caption>Students collaborating on STEM projects with digital tools</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://growbrightpath.com/blog/interactive-teaching-methods</loc>
+    <lastmod>2024-03-01T10:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://growbrightpath.com/blog-interactive-teaching.jpg</image:loc>
+      <image:title>Interactive Teaching Methods</image:title>
+      <image:caption>Teachers using interactive methods to engage students</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://growbrightpath.com/blog/future-digital-learning</loc>
+    <lastmod>2024-02-28T10:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://growbrightpath.com/blog-digital-learning.jpg</image:loc>
+      <image:title>Future of Digital Learning</image:title>
+      <image:caption>Students learning with advanced digital technologies</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://growbrightpath.com/blog/family-learning-connections</loc>
+    <lastmod>2024-02-25T10:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://growbrightpath.com/blog-family-learning.jpg</image:loc>
+      <image:title>Family Learning Connections</image:title>
+      <image:caption>Families engaging in collaborative learning activities</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Legal Pages -->
+  <url>
+    <loc>https://growbrightpath.com/privacy</loc>
+    <lastmod>2024-03-15T10:00:00+00:00</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+
+  <url>
+    <loc>https://growbrightpath.com/terms</loc>
+    <lastmod>2024-03-15T10:00:00+00:00</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+
+  <url>
+    <loc>https://growbrightpath.com/cookies</loc>
+    <lastmod>2024-03-15T10:00:00+00:00</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+
+  <url>
+    <loc>https://growbrightpath.com/accessibility</loc>
+    <lastmod>2024-03-15T10:00:00+00:00</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+
+</urlset>

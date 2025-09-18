@@ -1,0 +1,28 @@
+{
+  "path": "/",
+  "appName": "BrightPath Digital",
+  "appShortName": "BrightPath",
+  "appDescription": "Educational Learning Platform",
+  "developerName": "BrightPath Digital",
+  "developerURL": null,
+  "dir": "auto",
+  "lang": "en-GB",
+  "background": "#ffffff",
+  "theme_color": "#5b21b6",
+  "display": "standalone",
+  "orientation": "any",
+  "start_url": "/",
+  "logging": false,
+  "pixel_art": false,
+  "loadManifestWithCredentials": false,
+  "icons": {
+    "android": false,
+    "appleIcon": false,
+    "appleStartup": false,
+    "coast": false,
+    "favicons": true,
+    "firefox": false,
+    "windows": false,
+    "yandex": false
+  }
+}

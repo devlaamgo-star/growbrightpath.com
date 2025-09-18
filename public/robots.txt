@@ -1,0 +1,24 @@
+User-agent: *
+Allow: /
+
+# Specifically allow important sections
+Allow: /blog/
+Allow: /demo/
+Allow: /contact/
+Allow: /about/
+Allow: /features/
+Allow: /pricing/
+Allow: /support/
+
+# Disallow admin and private areas
+Disallow: /admin/
+Disallow: /api/
+Disallow: /private/
+Disallow: /_next/
+Disallow: /node_modules/
+
+# Sitemap location
+Sitemap: https://growbrightpath.com/sitemap.xml
+
+# Crawl delay for respectful crawling
+Crawl-delay: 1
